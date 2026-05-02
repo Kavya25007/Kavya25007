@@ -4,7 +4,7 @@ I'm Kavya Kushwaha, a B.Tech CSE (AI/ML) student passionate about Python, data a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavyahh_76) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-kushwaha-073b49378) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kavya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushwahakavya37@gmail.com) 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -16,7 +16,7 @@ I'm Kavya Kushwaha, a B.Tech CSE (AI/ML) student passionate about Python, data a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [](https://github-readme-stats.vercel.app/api?username=Kavya25007&theme=dark)
 
 ![](https://streak-stats.demolab.com?user=Kavya25007&theme=dark)
