@@ -2,7 +2,7 @@
 I'm Kavya, a tech enthusiast interested in Python, cybersecurity, and cloud computing. I'm currently learning and building projects to strengthen my technical skills and explore real-world applications.
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavyahh_76) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-kushwaha-073b49378) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kavya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushwahakavya37@gmail.com) 
 
 
