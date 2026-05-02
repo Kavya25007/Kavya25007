@@ -48,10 +48,8 @@ Modern translator app with voice + OCR + history features.
 <a href="https://your-translator-link.com" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Click%20Here-blue?style=for-the-badge" />
 </a>
-<a href="https://github.com/Kavya25007/translator-pro" target="_blank">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Repo-black?style=for-the-badge&logo=github" />
-</a>
-
+<a href="https://kavya25007.github.io/Translator---Pro/" target="_blank">
+ 
 
 ## 📊 GitHub Stats:
 [](https://github-readme-stats.vercel.app/api?username=Kavya25007&theme=dark)
