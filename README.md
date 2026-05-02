@@ -1,4 +1,4 @@
-##👋 Hey there, I'm Kavya Kushwaha ✨
+#👋 Hey there, I'm Kavya Kushwaha ✨
 
 I'm a B.Tech CSE (AI/ML) student passionate about Python, data analysis, and cloud technologies.  
 I focus on building real-world projects that strengthen my problem-solving and technical skills.
