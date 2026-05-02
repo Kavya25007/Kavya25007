@@ -18,11 +18,11 @@ I'm Kavya, a tech enthusiast interested in Python, cybersecurity, and cloud comp
 
 
 # 📊 GitHub Stats:
-![Profile views](https://komarev.com/ghpvc/?username=Kavya25007&color=blue)
+[](https://github-readme-stats.vercel.app/api?username=Kavya25007&theme=dark)
+
 ![](https://streak-stats.demolab.com?user=Kavya25007&theme=dark)
-![snake gif](https://github.com/Kavya25007/Kavya25007/blob/output/github-contribution-grid-snake.svg)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavya25007&theme=react-dark)
-![](https://github-profile-trophy.vercel.app/?username=Kavya25007&theme=radical)
+
+![Profile views](https://komarev.com/ghpvc/?username=Kavya25007)
 
 
 
