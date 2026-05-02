@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Kavya, a tech enthusiast interested in Python, cybersecurity, and cloud computing. I'm currently learning and building projects to strengthen my technical skills and explore real-world applications.
 
 
