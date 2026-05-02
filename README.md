@@ -5,6 +5,7 @@ I'm Kavya, a tech enthusiast interested in Python, cybersecurity, and cloud comp
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavyahh_76) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-kushwaha-073b49378) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kavya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushwahakavya37@gmail.com) 
 
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -15,12 +16,13 @@ I'm Kavya, a tech enthusiast interested in Python, cybersecurity, and cloud comp
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Projects:
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kavya25007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Kavya25007&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya25007&theme=dark&hide_border=false&layout=compact)
+![Profile views](https://komarev.com/ghpvc/?username=Kavya25007&color=blue)
+![](https://streak-stats.demolab.com?user=Kavya25007&theme=dark)
+![snake gif](https://github.com/Kavya25007/Kavya25007/blob/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavya25007&theme=react-dark)
+![](https://github-profile-trophy.vercel.app/?username=Kavya25007&theme=radical)
 
 
 
