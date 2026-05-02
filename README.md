@@ -19,15 +19,17 @@ I focus on building real-world projects that strengthen my problem-solving and t
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Projects
-
 ### 🔍 DocScan – Azure Document Intelligence
 Extracts text & tables using Azure AI.
 
-<a href="https://your-docscan-link.com" target="_blank">
+🛠️  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="25"/>
+
+<a href="https://kavya25007.github.io/Document-Scanner/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Click%20Here-blue?style=for-the-badge" />
-</a>
-<a href="https://github.com/Kavya25007/docscan" target="_blank">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Repo-black?style=for-the-badge&logo=github" />
 </a>
 
 ---
@@ -35,22 +37,25 @@ Extracts text & tables using Azure AI.
 ### ♻️ Waste Classifier
 AI model for recyclable vs non-recyclable waste detection.
 
-<a href="https://github.com/your-username/waste-classifier" target="_blank">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Repo-black?style=for-the-badge&logo=github" />
-</a>
+🛠️  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="25"/>
 
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Coming%20Soon-orange?style=for-the-badge" />
+
 ---
 
 ### 🌍 Translator Pro
 Modern translator app with voice + OCR + history features.
 
-<a href="https://your-translator-link.com" target="_blank">
+🛠️  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/>
+
+<a href="https://kavya25007.github.io/Translator---Pro/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Click%20Here-blue?style=for-the-badge" />
 </a>
-<a href="https://kavya25007.github.io/Translator---Pro/" target="_blank">
- 
-
 ## 📊 GitHub Stats:
 [](https://github-readme-stats.vercel.app/api?username=Kavya25007&theme=dark)
 
